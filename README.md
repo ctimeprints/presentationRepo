@@ -1,3 +1,5 @@
+A collection of tools which can create consise and fancy presentations.
+
 
 # Resentation Repos
 
